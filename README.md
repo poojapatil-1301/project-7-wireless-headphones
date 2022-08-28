@@ -16,7 +16,7 @@ By Pooja Patil
 
 ## How the website looks like
 
-![Desktop](fullscreen.png)
+![Desktop](full-ss.png)
 
 
 This project took around 5 hours to complete.
